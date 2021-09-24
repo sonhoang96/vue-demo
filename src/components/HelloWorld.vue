@@ -10,7 +10,6 @@
         />
       </v-col>
     </v-row>
-    <span>{{msg}}</span>
   </v-container>
 </template>
 
