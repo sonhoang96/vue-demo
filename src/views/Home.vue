@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
-    <h1></h1>
+    <h1 class="hehe"></h1>
   </div>
 </template>
 
@@ -16,3 +16,7 @@ export default {
   }
 }
 </script>
+<style scoped>
+  .hehe {color: black}  
+<style>
+
